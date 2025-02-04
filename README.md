@@ -1,2 +1,2 @@
-# Proyecto_DAE
-Rocío Domingo, Antonio Javier Armenteros y Luis Domínguez
+# Proyecto DAE: Reservas de Hoteles
+Por Antonio Javier Armenteros, Luis Domínguez y Rocío Domingo

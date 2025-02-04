@@ -1,0 +1,10 @@
+## YAML Template.
+---
+##spring.datasource.url: jdbc:h2:mem:ujahotel_test;MODE=MYSQL;DATABASE_TO_LOWER=TRUE;DB_CLOSE_DELAY=-1
+
+spring.datasource.url: jdbc:mysql://localhost:33060/ujahotel
+spring.datasource.username: ujahotel
+spring.datasource.password: secret
+
+spring.jpa.properties.javax.persistence.schema-generation.database.action: drop-and-create
+##drop-and-create

@@ -1,0 +1,10 @@
+## YAML Template.
+---
+spring.datasource.url: jdbc:mysql://localhost:33060/ujahotel
+spring.datasource.username: ujahotel
+spring.datasource.password: secret
+##spring.datasource.driver-class-name: com.mysql.jdbc.Driver
+
+spring.jpa.properties.javax.persistence.schema-generation.database.action: drop-and-create
+
+spring.data.jpa.repositories.bootstrap-mode: default
